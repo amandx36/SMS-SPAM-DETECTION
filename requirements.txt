@@ -1,0 +1,8 @@
+streamlit
+streamlit
+scikit-learn 
+numpy 
+pandas 
+pickle-mixin
+nltk
+nltk.stem.porter
